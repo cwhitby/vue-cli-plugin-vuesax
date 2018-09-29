@@ -1,0 +1,23 @@
+{
+    "name": "vue-cli-plugin-vuesax",
+    "version": "1.0.0",
+    "description": "vue-cli 3 plugin to add Vuesax",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/cwhitby/vue-cli-plugin-vuesax.git"
+    },
+    "keywords": [
+        "vuesax",
+        "vue",
+        "vue-cli",
+        "plugin",
+        "cli"
+    ],
+    "author": "Curtis Whitby",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cwhitby/vue-cli-plugin-vuesax/issues"
+    },
+    "homepage": "https://github.com/cwhitby/vue-cli-plugin-vuesax#readme"
+}
